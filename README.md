@@ -4,6 +4,6 @@ This is a repository used while I'm following the course 50 Projects in 50 dats.
 
 I've deployed the content that I follow, with minor changes, as a
 
-- Github page: [Fifty in Fifty Demos GitHubPages](https://geeklogbook.github.io/fiftyInFifty/)
+- Github page: [Fifty in Fifty Demos GitHub pages](https://geeklogbook.github.io/fiftyInFifty/)
 - Vercel app: [Fifty in Fifty Demos Vercel](https://fifty-in-fifty.vercel.app/)
 - Render app: [Fifty in Fifty Demos Render](https://fifty-in-fifty-demos.onrender.com/)
