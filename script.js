@@ -1,6 +1,15 @@
 const project_container = document.getElementById('projects-container')
 
 
+const fetchProjects = async () => {
+    fetch('projects.json')
+    .then((response) => response.json())
+    .then((json) => console.log(json));
+}
+
+fetchProjects()
+
+
 const createProjectCard = () => {
     const projectEl = document.createElement('div')
     
