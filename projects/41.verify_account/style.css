@@ -45,7 +45,7 @@ body {
 
 .code::-webkit-outer-spin-button,
 .code::-webkit-inner-spin-button{
-    -webkit-appearance: none;
+    appearance: none;
     margin:0;
 }
 
