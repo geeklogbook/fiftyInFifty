@@ -7,8 +7,6 @@ const fetchProjects = async () => {
     .then((json) => console.log(json));
 }
 
-fetchProjects()
-
 
 const createProjectCard = () => {
     const projectEl = document.createElement('div')
