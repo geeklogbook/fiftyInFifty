@@ -37,7 +37,7 @@ const createProjectCard = (project) => {
         </div>
 
         <button> 
-            <a href="./projects/${id}.${location}/index.html" class="href">Go to the project</a>
+            <a href="./projects/${id}.${location}/index.html" class="href" target="_blank">Go to the project</a>
         </button>
     `
     projectEl.innerHTML = projectInnerHTML
