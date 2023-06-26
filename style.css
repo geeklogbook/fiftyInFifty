@@ -88,14 +88,18 @@ button:focus {
   outline: none;
 }
 
-img {
-  width: 150px;
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 150px;
-  object-fit: cover;
+  overflow: hidden;
 }
 
-.img-container {
-  align-items: center;
+.img-container img {
+  width: auto;
+  height: 100%;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 768px) {

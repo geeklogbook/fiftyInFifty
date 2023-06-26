@@ -22,7 +22,7 @@ const createProjectElement = (project) => {
 
   const projectInnerHTML = `
     <div class="img-container">
-      <img src="${image}" alt="" />
+      <img src="${image}" alt="Image Preview" />
     </div>
     <div class="info">
       <h3>${name}</h3>
