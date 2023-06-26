@@ -45,7 +45,7 @@
     {"id": "44", "name": "Custom Range Slider", "location": "custom_range_slider", "image": "https://source.unsplash.com/random/", "reusable": "Yes", "url": "", "title":""},
     {"id": "45", "name": "Netflix Navigation", "location": "netflix_navigation", "image": "https://source.unsplash.com/random/", "reusable": "Yes", "url": "", "title":""},
     {"id": "46", "name": "Quiz App", "location": "quiz_app", "image": "https://source.unsplash.com/random/", "reusable": "Yes", "url": "", "title":""},
-    {"id": "47", "name": "Testimonial Box Switcher", "location": "testimonial_box_switcher", "image": "https://source.unsplash.com/random/", "reusable": "Yes", "url": "", "title":""},
+    {"id": "47", "name": "Testimonial Box", "location": "testimonial_box_switcher", "image": "https://source.unsplash.com/random/", "reusable": "Yes", "url": "", "title":""},
     {"id": "48", "name": "Random image Feed", "location": "random_image_feed", "image": "https://source.unsplash.com/random/", "reusable": "Yes", "url": "", "title":""},
     {"id": "49", "name": "Todo List", "location": "todo_list", "image": "https://source.unsplash.com/random/", "reusable": "Yes", "url": "", "title":""},
     {"id": "50", "name": "Insect Catch Game", "location": "insect_catch_game", "image": "https://source.unsplash.com/random/", "reusable": "Yes", "url": "", "title":""}
