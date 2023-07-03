@@ -21,7 +21,14 @@
         "reusable": "Yes", 
         "url": "https://geeklogbook.com/50projectsin50days-day-3-rotating-navigation/"
     },
-    {"id": "04", "name": "Hidden Search", "location": "hidden_search", "image": "", "reusable": "Yes", "url": "", "title":""},
+    {
+        "id": "04", 
+        "name": "Hidden Search", 
+        "location": "hidden_search", 
+        "image": "projects\\00.demos\\04.hidden_search.png", 
+        "reusable": "Yes", 
+        "url": "https://geeklogbook.com/50projectsin50days-day-4-hidden-search/"
+    },
     {"id": "05", "name": "Blurry Loadding", "location": "blurry_loading", "image": "", "reusable": "Yes", "url": "", "title":""},
     {"id": "06", "name": "Scroll Animation", "location": "scroll_animation", "image": "", "reusable": "Yes", "url": "", "title":""},
     {"id": "07", "name": "Split Landing", "location": "split_landing", "image": "", "reusable": "Yes", "url": "", "title":""},
