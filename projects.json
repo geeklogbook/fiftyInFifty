@@ -3,7 +3,6 @@
         "id": "01", "name": "Expanding Cards", 
         "location": "expanding_cards", 
         "image": "projects\\00.demos\\01.expanding_cards.png", 
-        "reusable": "Yes", 
         "url": "https://geeklogbook.com/50projectsin50days-day-1-expanding-cards/"
     },
     {
@@ -11,14 +10,12 @@
         "name": "Progress Steps", 
         "location": "progress_steps", 
         "image": "projects\\00.demos\\02.progress_steps.png", 
-        "reusable": "No", 
         "url": "https://geeklogbook.com/50projectsin50days-day-2-progress-steps/" 
     },
     {
         "id": "03", "name": "Rotating Navigation", 
         "location": "rotating_navigation", 
         "image": "projects\\00.demos\\03.rotating_navigation.png", 
-        "reusable": "Yes", 
         "url": "https://geeklogbook.com/50projectsin50days-day-3-rotating-navigation/"
     },
     {
@@ -26,7 +23,6 @@
         "name": "Hidden Search", 
         "location": "hidden_search", 
         "image": "projects\\00.demos\\04.hidden_search.png", 
-        "reusable": "Yes", 
         "url": "https://geeklogbook.com/50projectsin50days-day-4-hidden-search/"
     },
     {"id": "05", "name": "Blurry Loadding", "location": "blurry_loading", "image": "", "reusable": "Yes", "url": "", "title":""},

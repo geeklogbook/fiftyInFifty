@@ -26,7 +26,6 @@ const createProjectElement = (project) => {
     </div>
     <div class="info">
       <h3>${name}</h3>
-      <p>Reusable: ${reusable}</p>
       <p><a href="${url}" target="_blank">Review</a></p>
     </div>
 
