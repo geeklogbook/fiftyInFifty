@@ -46,7 +46,13 @@
         "image": "projects\\00.demos\\07.split_landing.png",  
         "url": "https://geeklogbook.com/50projectsin50days-day-7-split-landing/"
     },
-    {"id": "08", "name": "From Wave", "location": "form_wave", "image": "",  "url": ""},
+    {
+        "id": "08", 
+        "name": "From Wave", 
+        "location": "form_wave",
+        "image": "projects\\00.demos\\08.form_wave.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-7-split-landing-2/"
+    },
     {"id": "09", "name": "Sound Board", "location": "sound_board", "image": "",  "url": ""},
     {"id": "10", "name": "Dads Joke", "location": "dads_joke", "image": "",  "url": ""},
     {"id": "11", "name": "Event Keycodes", "location": "event_keycodes", "image": "",  "url": ""},
