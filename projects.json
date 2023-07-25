@@ -51,7 +51,7 @@
         "name": "From Wave", 
         "location": "form_wave",
         "image": "projects\\00.demos\\08.form_wave.png",  
-        "url": "https://geeklogbook.com/50projectsin50days-day-7-split-landing-2/"
+        "url": "https://geeklogbook.com/50projectsin50days-day-8-form-input-wave/"
     },
     {"id": "09", "name": "Sound Board", "location": "sound_board", "image": "",  "url": ""},
     {"id": "10", "name": "Dads Joke", "location": "dads_joke", "image": "",  "url": ""},
