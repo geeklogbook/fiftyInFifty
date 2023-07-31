@@ -53,7 +53,13 @@
         "image": "projects\\00.demos\\08.form_wave.png",  
         "url": "https://geeklogbook.com/50projectsin50days-day-8-form-input-wave/"
     },
-    {"id": "09", "name": "Sound Board", "location": "sound_board", "image": "",  "url": ""},
+    {
+        "id": "09", 
+        "name": "Sound Board", 
+        "location": "sound_board", 
+        "image": "projects\\00.demos\\09.sound_board.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-9-sound-board/"
+    },
     {"id": "10", "name": "Dads Joke", "location": "dads_joke", "image": "",  "url": ""},
     {"id": "11", "name": "Event Keycodes", "location": "event_keycodes", "image": "",  "url": ""},
     {"id": "12", "name": "FAQ Collapse", "location": "faq_collapse", "image": "",  "url": ""},
