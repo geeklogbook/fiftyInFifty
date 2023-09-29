@@ -67,7 +67,12 @@
         "image": "projects\\00.demos\\10.dads_joke.png",  
         "url": "https://geeklogbook.com/50projectsin50days-day-10-dads-joke/"
     },
-    {"id": "11", "name": "Event Keycodes", "location": "event_keycodes", "image": "",  "url": ""},
+    {
+        "id": "11", 
+        "name": "Event Keycodes", 
+        "location": "event_keycodes", 
+        "image": "projects\\00.demos\\11.event_keyscodes.png", 
+         "url": "https://geeklogbook.com/50projectsin50days-day-11-dads-joke/"},
     {"id": "12", "name": "FAQ Collapse", "location": "faq_collapse", "image": "",  "url": ""},
     {"id": "13", "name": "Random Picker", "location": "random_picker", "image": "",  "url": ""},
     {"id": "14", "name": "Animated Navigation", "location": "animated_navigation", "image": "1",  "url": ""},
