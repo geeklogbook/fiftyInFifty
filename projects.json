@@ -72,44 +72,130 @@
         "name": "Event Keycodes", 
         "location": "event_keycodes", 
         "image": "projects\\00.demos\\11.event_keyscodes.png", 
-         "url": "https://geeklogbook.com/50projectsin50days-day-11-dads-joke/"},
-    {"id": "12", "name": "FAQ Collapse", "location": "faq_collapse", "image": "",  "url": ""},
-    {"id": "13", "name": "Random Picker", "location": "random_picker", "image": "",  "url": ""},
-    {"id": "14", "name": "Animated Navigation", "location": "animated_navigation", "image": "1",  "url": ""},
-    {"id": "15", "name": "Counter", "location": "counter", "image": "2",  "url": ""},
-    {"id": "16", "name": "Drink Water", "location": "drink_water", "image": "",  "url": ""},
-    {"id": "17", "name": "Movie App", "location": "movie_app", "image": "",  "url": ""},
-    {"id": "18", "name": "Background Slider", "location": "background_slider", "image": "",  "url": ""},
-    {"id": "19", "name": "Theme Clock", "location": "theme_clock", "image": "",  "url": ""},
-    {"id": "20", "name": "Button Ripple", "location": "button_ripple", "image": "",  "url": ""},
-    {"id": "21", "name": "Drag And Drop", "location": "drag_n_drop", "image": "",  "url": ""},
-    {"id": "22", "name": "Drawwing App", "location": "drawing_app", "image": "",  "url": ""},
-    {"id": "23", "name": "Kinectic Loader", "location": "kinetic_loader", "image": "",  "url": ""},
-    {"id": "24", "name": "Content Placeholder", "location": "content_placeholder", "image": "",  "url": ""},
-    {"id": "25", "name": "Sticky Nav", "location": "sticky_nav", "image": "",  "url": ""},
-    {"id": "26", "name": "Vertical Slider", "location": "vertical_slider", "image": "",  "url": ""},
-    {"id": "27", "name": "Toast Notificaction", "location": "toast_notification", "image": "",  "url": ""},
-    {"id": "28", "name": "GitHub Profile", "location": "github_profile", "image": "",  "url": ""},
-    {"id": "29", "name": "Double Heart Click", "location": "double_heart_click", "image": "",  "url": ""},
-    {"id": "30", "name": "Auto Text Effect", "location": "auto_text_effect", "image": "",  "url": ""},
-    {"id": "31", "name": "Password Generator", "location": "password_generator", "image": "",  "url": ""},
-    {"id": "32", "name": "Style Checkboxes", "location": "style_checkboxes", "image": "",  "url": ""},
-    {"id": "33", "name": "Notes app", "location": "notes_app", "image": "",  "url": ""},
-    {"id": "34", "name": "Final Countdown", "location": "final_countdown", "image": "",  "url": ""},
-    {"id": "35", "name": "Image Carrousel", "location": "image_carousel", "image": "",  "url": ""},
-    {"id": "36", "name": "Hoverboard", "location": "hoverboard", "image": "",  "url": ""},
-    {"id": "37", "name": "Pokedex", "location": "pokedex", "image": "",  "url": ""},
-    {"id": "38", "name": "Mobile Navigation", "location": "mobile_tab_navigation", "image": "",  "url": ""},
-    {"id": "39", "name": "Password Strength", "location": "password_strength", "image": "",  "url": ""},
-    {"id": "40", "name": "3D Background Boxes", "location": "3d_background_boxes", "image": "",  "url": ""},
-    {"id": "41", "name": "Verify Account", "location": "verify_account", "image": "",  "url": ""},
-    {"id": "42", "name": "Live User Filter", "location": "live_user_filter", "image": "",  "url": ""},
-    {"id": "43", "name": "Feedback UI", "location": "feedback_ui", "image": "",  "url": ""},
-    {"id": "44", "name": "Custom Range Slider", "location": "custom_range_slider", "image": "",  "url": ""},
-    {"id": "45", "name": "Netflix Navigation", "location": "netflix_navigation", "image": "",  "url": ""},
-    {"id": "46", "name": "Quiz App", "location": "quiz_app", "image": "",  "url": ""},
-    {"id": "47", "name": "Testimonial Box", "location": "testimonial_box_switcher", "image": "",  "url": ""},
-    {"id": "48", "name": "Random image Feed", "location": "random_image_feed", "image": "",  "url": ""},
-    {"id": "49", "name": "Todo List", "location": "todo_list", "image": "",  "url": ""},
-    {"id": "50", "name": "Insect Catch Game", "location": "insect_catch_game", "image": "",  "url": ""}
+         "url": "https://geeklogbook.com/50projectsin50days-day-11-dads-joke/"
+        },
+    {
+        "id": "12", 
+        "name": "FAQ Collapse", 
+        "location": "faq_collapse", 
+        "image": "projects\\00.demos\\12.faq_collapse.png",  
+        "url": ""
+    },
+    {
+        "id": "13", 
+        "name": "Random Picker", 
+        "location": "random_picker", 
+        "image": "projects\\00.demos\\13.random_picker.png",  
+        "url": ""},
+    {
+        "id": "14", 
+        "name": "Animated Navigation", "location": "animated_navigation", "image": "projects\\00.demos\\14.png",  "url": ""},
+    {
+        "id": "15", 
+        "name": "Counter", "location": "counter", "image": "projects\\00.demos\\15.png",  "url": ""},
+    {
+        "id": "16", 
+        "name": "Drink Water", "location": "drink_water", "image": "projects\\00.demos\\16.png",  "url": ""},
+    {
+        "id": "17", 
+        "name": "Movie App", "location": "movie_app", "image": "projects\\00.demos\\17.png",  "url": ""},
+    {
+        "id": "18", 
+        "name": "Background Slider", "location": "background_slider", "image": "projects\\00.demos\\18.png",  "url": ""},
+    {
+        "id": "19", 
+        "name": "Theme Clock", "location": "theme_clock", "image": "projects\\00.demos\\19.png",  "url": ""},
+    {
+        "id": "20", 
+        "name": "Button Ripple", "location": "button_ripple", "image": "projects\\00.demos\\20.png",  "url": ""},
+    {
+        "id": "21", 
+        "name": "Drag And Drop", "location": "drag_n_drop", "image": "projects\\00.demos\\21.png",  "url": ""},
+    {
+        "id": "22", 
+        "name": "Drawwing App", "location": "drawing_app", "image": "projects\\00.demos\\22.png",  "url": ""},
+    {
+        "id": "23", 
+        "name": "Kinectic Loader", "location": "kinetic_loader", "image": "projects\\00.demos\\23.png",  "url": ""},
+    {
+        "id": "24", 
+        "name": "Content Placeholder", "location": "content_placeholder", "image": "projects\\00.demos\\24.png",  "url": ""},
+    {
+        "id": "25", 
+        "name": "Sticky Nav", "location": "sticky_nav", "image": "projects\\00.demos\\25.png",  "url": ""},
+    {
+        "id": "26", 
+        "name": "Vertical Slider", "location": "vertical_slider", "image": "projects\\00.demos\\26.png",  "url": ""},
+    {
+        "id": "27", 
+        "name": "Toast Notificaction", "location": "toast_notification", "image": "projects\\00.demos\\27.png",  "url": ""},
+    {
+        "id": "28", 
+        "name": "GitHub Profile", "location": "github_profile", "image": "projects\\00.demos\\28.png",  "url": ""},
+    {
+        "id": "29", 
+        "name": "Double Heart Click", "location": "double_heart_click", "image": "projects\\00.demos\\29.png",  "url": ""},
+    {
+        "id": "30", 
+        "name": "Auto Text Effect", "location": "auto_text_effect", "image": "projects\\00.demos\\30.png",  "url": ""},
+    {
+        "id": "31", 
+        "name": "Password Generator", "location": "password_generator", "image": "projects\\00.demos\\31.png",  "url": ""},
+    {
+        "id": "32", 
+        "name": "Style Checkboxes", "location": "style_checkboxes", "image": "projects\\00.demos\\32.png",  "url": ""},
+    {
+        "id": "33", 
+        "name": "Notes app", "location": "notes_app", "image": "projects\\00.demos\\33.png",  "url": ""},
+    {
+        "id": "34", 
+        "name": "Final Countdown", "location": "final_countdown", "image": "projects\\00.demos\\34.png",  "url": ""},
+    {
+        "id": "35", 
+        "name": "Image Carrousel", "location": "image_carousel", "image": "projects\\00.demos\\35.png",  "url": ""},
+    {
+        "id": "36", 
+        "name": "Hoverboard", "location": "hoverboard", "image": "projects\\00.demos\\36.png",  "url": ""},
+    {
+        "id": "37", 
+        "name": "Pokedex", "location": "pokedex", "image": "projects\\00.demos\\37.png",  "url": ""},
+    {
+        "id": "38", 
+        "name": "Mobile Navigation", "location": "mobile_tab_navigation", "image": "projects\\00.demos\\38.png",  "url": ""},
+    {
+        "id": "39", 
+        "name": "Password Strength", "location": "password_strength", "image": "projects\\00.demos\\39.png",  "url": ""},
+    {
+        "id": "40", 
+        "name": "3D Background Boxes", "location": "3d_background_boxes", "image": "projects\\00.demos\\40.png",  "url": ""},
+    {
+        "id": "41", 
+        "name": "Verify Account", "location": "verify_account", "image": "projects\\00.demos\\41.png",  "url": ""},
+    {
+        "id": "42", 
+        "name": "Live User Filter", "location": "live_user_filter", "image": "projects\\00.demos\\42.png",  "url": ""},
+    {
+        "id": "43", 
+        "name": "Feedback UI", "location": "feedback_ui", "image": "projects\\00.demos\\43.png",  "url": ""},
+    {
+        "id": "44", 
+        "name": "Custom Range Slider", "location": "custom_range_slider", "image": "projects\\00.demos\\44.png",  "url": ""},
+    {
+        "id": "45", 
+        "name": "Netflix Navigation", "location": "netflix_navigation", "image": "projects\\00.demos\\45.png",  "url": ""},
+    {
+        "id": "46", 
+        "name": "Quiz App", "location": "quiz_app", "image": "projects\\00.demos\\46.png",  "url": ""},
+    {
+        "id": "47", 
+        "name": "Testimonial Box", "location": "testimonial_box_switcher", "image": "projects\\00.demos\\47.png",  "url": ""},
+    {
+        "id": "48", 
+        "name": "Random image Feed", "location": "random_image_feed", "image": "projects\\00.demos\\48.png",  "url": ""},
+    {
+        "id": "49", 
+        "name": "Todo List", "location": "todo_list", "image": "projects\\00.demos\\49.png",  "url": ""},
+    {
+        "id": "50", 
+        "name": "Insect Catch Game", "location": "insect_catch_game", "image": "projects\\00.demos\\50.png",  "url": ""}
 ]
