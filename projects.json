@@ -86,7 +86,7 @@
         "name": "Random Picker", 
         "location": "random_picker", 
         "image": "projects\\00.demos\\13.random_picker.png",  
-        "url": ""},
+        "url": "https://geeklogbook.com/50projectsin50days-day-13-random-picker/"},
     {
         "id": "14", 
         "name": "Animated Navigation", "location": "animated_navigation", "image": "projects\\00.demos\\14.png",  "url": ""},
