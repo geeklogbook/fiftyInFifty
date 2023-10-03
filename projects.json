@@ -89,7 +89,10 @@
         "url": "https://geeklogbook.com/50projectsin50days-day-13-random-picker/"},
     {
         "id": "14", 
-        "name": "Animated Navigation", "location": "animated_navigation", "image": "projects\\00.demos\\14.png",  "url": ""},
+        "name": "Animated Navigation", 
+        "location": "animated_navigation", 
+        "image": "projects\\00.demos\\14.animated_navigation.png", 
+        "url": "https://geeklogbook.com/50projectsin50days-day-14-animated-navigation/"},
     {
         "id": "15", 
         "name": "Counter", "location": "counter", "image": "projects\\00.demos\\15.png",  "url": ""},
