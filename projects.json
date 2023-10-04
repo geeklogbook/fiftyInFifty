@@ -95,10 +95,16 @@
         "url": "https://geeklogbook.com/50projectsin50days-day-14-animated-navigation/"},
     {
         "id": "15", 
-        "name": "Counter", "location": "counter", "image": "projects\\00.demos\\15.png",  "url": ""},
+        "name": "Counter", 
+        "location": "counter", 
+        "image": "projects\\00.demos\\15counter.png", 
+         "url": "https://geeklogbook.com/50projectsin50days-day-15-counter/"},
     {
         "id": "16", 
-        "name": "Drink Water", "location": "drink_water", "image": "projects\\00.demos\\16.png",  "url": ""},
+        "name": "Drink Water", 
+        "location": "drink_water", 
+        "image": "projects\\00.demos\\16.drink_water.png",  
+        "url": ""},
     {
         "id": "17", 
         "name": "Movie App", "location": "movie_app", "image": "projects\\00.demos\\17.png",  "url": ""},
