@@ -104,7 +104,7 @@
         "name": "Drink Water", 
         "location": "drink_water", 
         "image": "projects\\00.demos\\16.drink_water.png",  
-        "url": ""},
+        "url": "https://geeklogbook.com/50projectsin50days-day-16-drink-water/"},
     {
         "id": "17", 
         "name": "Movie App", "location": "movie_app", "image": "projects\\00.demos\\17.png",  "url": ""},
