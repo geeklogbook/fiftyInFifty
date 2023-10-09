@@ -97,7 +97,7 @@
         "id": "15", 
         "name": "Counter", 
         "location": "counter", 
-        "image": "projects\\00.demos\\15counter.png", 
+        "image": "projects\\00.demos\\15.counter.png", 
          "url": "https://geeklogbook.com/50projectsin50days-day-15-counter/"},
     {
         "id": "16", 
@@ -107,7 +107,10 @@
         "url": "https://geeklogbook.com/50projectsin50days-day-16-drink-water/"},
     {
         "id": "17", 
-        "name": "Movie App", "location": "movie_app", "image": "projects\\00.demos\\17.png",  "url": ""},
+        "name": "Movie App", 
+        "location": "movie_app", 
+        "image": "projects\\00.demos\\17.movie_app.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-17-movie-app/"},
     {
         "id": "18", 
         "name": "Background Slider", "location": "background_slider", "image": "projects\\00.demos\\18.png",  "url": ""},
