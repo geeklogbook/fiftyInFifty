@@ -113,7 +113,11 @@
         "url": "https://geeklogbook.com/50projectsin50days-day-17-movie-app/"},
     {
         "id": "18", 
-        "name": "Background Slider", "location": "background_slider", "image": "projects\\00.demos\\18.png",  "url": ""},
+        "name": "Background Slider", 
+        "location": "background_slider", 
+        "image": "projects\\00.demos\\18.background_slider.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-18-background-slider/"
+    },
     {
         "id": "19", 
         "name": "Theme Clock", "location": "theme_clock", "image": "projects\\00.demos\\19.png",  "url": ""},
