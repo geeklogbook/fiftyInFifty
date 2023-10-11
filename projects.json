@@ -120,7 +120,11 @@
     },
     {
         "id": "19", 
-        "name": "Theme Clock", "location": "theme_clock", "image": "projects\\00.demos\\19.png",  "url": ""},
+        "name": "Theme Clock", 
+        "location": "theme_clock", 
+        "image": "projects\\00.demos\\19.theme_clock.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-19-theme-clock/"
+    },
     {
         "id": "20", 
         "name": "Button Ripple", "location": "button_ripple", "image": "projects\\00.demos\\20.png",  "url": ""},
