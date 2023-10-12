@@ -127,7 +127,10 @@
     },
     {
         "id": "20", 
-        "name": "Button Ripple", "location": "button_ripple", "image": "projects\\00.demos\\20.png",  "url": ""},
+        "name": "Button Ripple", 
+        "location": "button_ripple", 
+        "image": "projects\\00.demos\\20.button_ripple.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-20-button-ripple/"},
     {
         "id": "21", 
         "name": "Drag And Drop", "location": "drag_n_drop", "image": "projects\\00.demos\\21.png",  "url": ""},
