@@ -133,7 +133,10 @@
         "url": "https://geeklogbook.com/50projectsin50days-day-20-button-ripple/"},
     {
         "id": "21", 
-        "name": "Drag And Drop", "location": "drag_n_drop", "image": "projects\\00.demos\\21.png",  "url": ""},
+        "name": "Drag And Drop", 
+        "location": "drag_and_drop", 
+        "image": "projects\\00.demos\\21.drag_and_drop.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-21-drag-and-drop/"},
     {
         "id": "22", 
         "name": "Drawwing App", "location": "drawing_app", "image": "projects\\00.demos\\22.png",  "url": ""},
