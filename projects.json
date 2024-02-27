@@ -139,7 +139,10 @@
         "url": "https://geeklogbook.com/50projectsin50days-day-21-drag-and-drop/"},
     {
         "id": "22", 
-        "name": "Drawwing App", "location": "drawing_app", "image": "projects\\00.demos\\22.png",  "url": ""},
+        "name": "Drawing App", 
+        "location": "drawing_app", 
+        "image": "projects\\00.demos\\22.drawing_app.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-22-drawing-app/"},
     {
         "id": "23", 
         "name": "Kinectic Loader", "location": "kinetic_loader", "image": "projects\\00.demos\\23.png",  "url": ""},
