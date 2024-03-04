@@ -160,7 +160,11 @@
     },
     {
         "id": "24", 
-        "name": "Content Placeholder", "location": "content_placeholder", "image": "projects\\00.demos\\24.png",  "url": ""},
+        "name": "Content Placeholder",
+        "location": "content_placeholder", 
+        "image": "projects\\00.demos\\24.content_placeholder.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-24-content-placeholder/"
+    },
     {
         "id": "25", 
         "name": "Sticky Nav", "location": "sticky_nav", "image": "projects\\00.demos\\25.png",  "url": ""},
