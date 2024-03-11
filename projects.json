@@ -167,7 +167,10 @@
     },
     {
         "id": "25", 
-        "name": "Sticky Nav", "location": "sticky_nav", "image": "projects\\00.demos\\25.png",  "url": ""},
+        "name": "Sticky Nav", 
+        "location": "sticky_nav", 
+        "image": "projects\\00.demos\\25.sticky_nav.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-25-sticky-nav/"},
     {
         "id": "26", 
         "name": "Vertical Slider", "location": "vertical_slider", "image": "projects\\00.demos\\26.png",  "url": ""},
