@@ -173,7 +173,10 @@
         "url": "https://geeklogbook.com/50projectsin50days-day-25-sticky-nav/"},
     {
         "id": "26", 
-        "name": "Vertical Slider", "location": "vertical_slider", "image": "projects\\00.demos\\26.png",  "url": ""},
+        "name": "Vertical Slider", 
+        "location": "vertical_slider", 
+        "image": "projects\\00.demos\\26.vertical_slider.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-26-vertical-slider/"},
     {
         "id": "27", 
         "name": "Toast Notificaction", "location": "toast_notification", "image": "projects\\00.demos\\27.png",  "url": ""},
