@@ -191,7 +191,10 @@
         "url": "https://geeklogbook.com/50projectsin50days-day-28-git-hub-profile/"},
     {
         "id": "29", 
-        "name": "Double Heart Click", "location": "double_heart_click", "image": "projects\\00.demos\\29.png",  "url": ""},
+        "name": "Double Heart Click", 
+        "location": "double_heart_click", 
+        "image": "projects\\00.demos\\29.double_heart_click.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-29-double-heart-click/"},
     {
         "id": "30", 
         "name": "Auto Text Effect", "location": "auto_text_effect", "image": "projects\\00.demos\\30.png",  "url": ""},
