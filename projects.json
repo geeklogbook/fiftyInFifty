@@ -170,34 +170,43 @@
         "name": "Sticky Nav", 
         "location": "sticky_nav", 
         "image": "projects\\00.demos\\25.sticky_nav.png",  
-        "url": "https://geeklogbook.com/50projectsin50days-day-25-sticky-nav/"},
+        "url": "https://geeklogbook.com/50projectsin50days-day-25-sticky-nav/"
+    },
     {
         "id": "26", 
         "name": "Vertical Slider", 
         "location": "vertical_slider", 
         "image": "projects\\00.demos\\26.vertical_slider.png",  
-        "url": "https://geeklogbook.com/50projectsin50days-day-26-vertical-slider/"},
+        "url": "https://geeklogbook.com/50projectsin50days-day-26-vertical-slider/"
+    },
     {
         "id": "27", 
         "name": "Toast Notificaction", 
         "location": "toast_notification",
         "image": "projects\\00.demos\\27.toast_notification.png",  
-        "url": "https://geeklogbook.com/50projectsin50days-day-27-toast-notification/"},
+        "url": "https://geeklogbook.com/50projectsin50days-day-27-toast-notification/"
+    },
     {
         "id": "28", 
         "name": "GitHub Profile", 
         "location": "github_profile", 
         "image": "projects\\00.demos\\28.github_profile.png",  
-        "url": "https://geeklogbook.com/50projectsin50days-day-28-git-hub-profile/"},
+        "url": "https://geeklogbook.com/50projectsin50days-day-28-git-hub-profile/"
+    },
     {
         "id": "29", 
         "name": "Double Heart Click", 
         "location": "double_heart_click", 
         "image": "projects\\00.demos\\29.double_heart_click.png",  
-        "url": "https://geeklogbook.com/50projectsin50days-day-29-double-heart-click/"},
+        "url": "https://geeklogbook.com/50projectsin50days-day-29-double-heart-click/"
+    },
     {
         "id": "30", 
-        "name": "Auto Text Effect", "location": "auto_text_effect", "image": "projects\\00.demos\\30.png",  "url": ""},
+        "name": "Auto Text Effect", 
+        "location": "auto_text_effect", 
+        "image": "projects\\00.demos\\30.auto_text_effect.png",  
+        "url": "https://geeklogbook.com/50projectsin50days-day-30-auto-text-effect/"
+    },
     {
         "id": "31", 
         "name": "Password Generator", "location": "password_generator", "image": "projects\\00.demos\\31.png",  "url": ""},
