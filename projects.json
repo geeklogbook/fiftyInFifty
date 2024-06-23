@@ -209,7 +209,11 @@
     },
     {
         "id": "31", 
-        "name": "Password Generator", "location": "password_generator", "image": "projects\\00.demos\\31.png",  "url": ""},
+        "name": "Password Generator", 
+        "location": "password_generator", 
+        "image": "projects\\00.demos\\31.password_generator.png", 
+        "url": "https://geeklogbook.com/50projectsin50days-day-31-password-generator/"
+    },
     {
         "id": "32", 
         "name": "Style Checkboxes", "location": "style_checkboxes", "image": "projects\\00.demos\\32.png",  "url": ""},
